@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bb3435a.css",
-    "main.js": "/static/js/main.38c2fac2.js",
-    "index.html": "/index.html",
-    "main.38c2fac2.js.map": "/static/js/main.38c2fac2.js.map"
+    "main.css": "/Chakra-UI-Deep-Dive/static/css/main.2bb3435a.css",
+    "main.js": "/Chakra-UI-Deep-Dive/static/js/main.38c2fac2.js",
+    "index.html": "/Chakra-UI-Deep-Dive/index.html",
+    "main.38c2fac2.js.map": "/Chakra-UI-Deep-Dive/static/js/main.38c2fac2.js.map"
   },
   "entrypoints": [
     "static/css/main.2bb3435a.css",
