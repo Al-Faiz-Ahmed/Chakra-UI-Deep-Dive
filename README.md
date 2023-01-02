@@ -4,7 +4,9 @@
 ### Profile Card Design.
 
 ### Snapshot
-![thumbnail](./public/AppOverview.mp4)
+
+https://user-images.githubusercontent.com/64990040/210255312-d39f4095-e7c7-44ab-99a2-969c5e7ee323.mp4
+
 
 ## Technologies
 
